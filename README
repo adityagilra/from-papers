@@ -1,0 +1,4 @@
+This is a repository of notes/derivations/models from papers read by me (Aditya Gilra) since April 2014.
+I will try to complete derivations that are often glossed over in papers, or embedded under a deep nesting of paper references ...
+Most notes will be in the ipython notebook format. They may be viewed online using http://nbviewer.ipython.org/.
+Feel free to fork the repo, complete any derivations that I may be stuck at, and inform me!
